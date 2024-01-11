@@ -6,7 +6,7 @@ _[https://gtnr.it/3S6wTwh](https://gtnr.it/3S6wTwh)_
 Better with Microsoft Teams. Learn more about our latest native Teams integrated features!
 _[https://bit.ly/M365CC-MSTeamsIntegration](https://bit.ly/M365CC-MSTeamsIntegration)_
 
-M365 Information Protection Posters
+M365 | Information Protection Posters
 _[https://bit.ly/M365IPPosters](https://bit.ly/M365IPPosters)_
 
 M365 | Attack Simulator in Office 365
