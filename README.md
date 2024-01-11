@@ -6,8 +6,7 @@ All extra materials are hosted in thematic catalogs, with changeable content (mo
 ## Practical Part
 This workshop also navigates delegates to after-hours homework with the possibility of setting up Microsoft Purview in Azure subscription and understanding all component necessary for a good start. 
 
-Microsoft Purview Workshop {Azure}
-_[https://bit.ly/MSPurviewWRKSHP](https://bit.ly/MSPurviewWRKSHP)_
+**Microsoft Purview Workshop {Azure} _[*https://bit.ly/MSPurviewWRKSHP*](https://bit.ly/MSPurviewWRKSHP)_**
 
 ## Additional links
 Additional links are available with separate pages and below.
