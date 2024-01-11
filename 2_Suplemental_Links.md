@@ -50,7 +50,7 @@ _[https://bit.ly/M365CC-FulfillRegulatory](https://bit.ly/M365CC-FulfillRegulato
 Learn how to reduce communication risks within your organization
 _[https://bit.ly/M365CC-ReduceRisk](https://bit.ly/M365CC-ReduceRisk)_
 
-Foster a culture of safety and inclusion with Communication Compliance​
+Foster a culture of safety and inclusion with Communication Compliance​ 
 _[https://bit.ly/M365CC-FosterCulture](https://bit.ly/M365CC-FosterCulture)_
 
 
@@ -67,3 +67,29 @@ _[https://bit.ly/46IcTF0](https://bit.ly/46IcTF0)_
 
 EUROPEAN COMMISSION RECOMMENDATION on critical technology areas for the EU's economic security for further risk assessment with Member States
 _[https://bit.ly/3ZGNWXQ](https://bit.ly/3ZGNWXQ)_
+
+
+###Miscellaneous
+MIcrosoft | Emprace Proactive Security with Zero trust
+_[https://bit.ly/ZeroTrust-ArchitectureByMicrosoft](https://bit.ly/ZeroTrust-ArchitectureByMicrosoft)_
+
+Wikipedia | Zero Trust Security Model
+_[https://bit.ly/ZeroTrust-SecurityModel)_
+
+EUROPEAN COMMISSION RECOMMENDATION on critical technology areas for the EU's economic security for further risk assessment with Member States
+_[https://bit.ly/3ZGNWXQ](https://bit.ly/3ZGNWXQ)_
+
+Compliance Center | Trusted Cloud | AWS
+_[https://go.aws/3N62Fpr](https://go.aws/3N62Fpr)_
+
+Compliance Center | Trusted Cloud | Google Cloud
+_[https://bit.ly/46ecSsT](https://bit.ly/46ecSsT)_
+
+Information protection and DLP | Microsoft Secure Tech Accelerator
+_[https://bit.ly/3zXYKoG](https://bit.ly/3zXYKoG)_
+
+AMA: Safeguard privacy with Microsoft Priva | Microsoft Secure Tech Accelerator
+_[https://bit.ly/41qBBGZ](https://bit.ly/41qBBGZ)_
+
+The value of Identity Governance | Microsoft Secure Tech Accelerator
+_[https://bit.ly/3obgFpd](https://bit.ly/3obgFpd)_
