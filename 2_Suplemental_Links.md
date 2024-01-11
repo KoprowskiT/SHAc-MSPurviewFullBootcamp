@@ -69,7 +69,7 @@ EUROPEAN COMMISSION RECOMMENDATION on critical technology areas for the EU's eco
 _[https://bit.ly/3ZGNWXQ](https://bit.ly/3ZGNWXQ)_
 
 
-###Miscellaneous
+### Miscellaneous
 MIcrosoft | Emprace Proactive Security with Zero trust
 _[https://bit.ly/ZeroTrust-ArchitectureByMicrosoft](https://bit.ly/ZeroTrust-ArchitectureByMicrosoft)_
 
