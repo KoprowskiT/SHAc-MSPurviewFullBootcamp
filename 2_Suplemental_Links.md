@@ -18,6 +18,8 @@ _[https://bit.ly/M365_PIMIntro](https://bit.ly/M365_PIMIntro)_
 M365 | Azure Active Directory: Identity Management and Protection
 _[https://bit.ly/M365_AADPIMvideo](https://bit.ly/M365_AADPIMvideo)_
 
+The value of Identity Governance | Microsoft Secure Tech Accelerator
+_[https://bit.ly/3obgFpd](https://bit.ly/3obgFpd)_
 
 ### Features Compare
 Feature Matrix | M365 Maps
