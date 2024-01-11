@@ -1,3 +1,7 @@
+## Gartner Report
+Gartner | 7 Data and Analytics Governance Foundations
+_[https://gtnr.it/3S6wTwh](https://gtnr.it/3S6wTwh)_
+
 ## All out of the class useful links
 Better with Microsoft Teams. Learn more about our latest native Teams integrated features!
 _[https://bit.ly/M365CC-MSTeamsIntegration](https://bit.ly/M365CC-MSTeamsIntegration)_
