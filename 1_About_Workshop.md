@@ -1,4 +1,4 @@
-# Microsoft Purview Governance & Comnpliance Workshop
+# Microsoft Purview Governance & Compliance Workshop
 ## Introduction
 This workshop is designed as two days divided vertically for Business/Sales Track & technical track, as well divided vertically for Purview solutions in Microsoft 365 (compliance) and Azure (governance).
 All extra materials are hosted in thematic catalogues, witg changeable content (mostly with adding new content over time).
