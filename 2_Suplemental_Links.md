@@ -65,9 +65,6 @@ _[https://bit.ly/3QvFW98](https://bit.ly/3QvFW98)_
 Unlocking the Future of Cybersecurity and AI
 _[https://bit.ly/46IcTF0](https://bit.ly/46IcTF0)_
 
-EUROPEAN COMMISSION RECOMMENDATION on critical technology areas for the EU's economic security for further risk assessment with Member States
-_[https://bit.ly/3ZGNWXQ](https://bit.ly/3ZGNWXQ)_
-
 
 ### Miscellaneous
 MIcrosoft | Emprace Proactive Security with Zero trust
